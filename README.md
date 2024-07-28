@@ -2,12 +2,17 @@
 
 ## Introduction to Statistics
 1. [Chapter 1](#chapter-1)
-  - What is stats?
-  - Descriptive vs inferential stats
-  - Measures of center
-  - Measures of spread
-
-
+   Summary Statistics
+    - What is stats?
+    - Descriptive vs inferential stats
+    - Measures of center
+    - Measures of spread
+2. [Chapter-2](#chapter-2)
+  Probability and Distributions
+    - What are the chances
+    - Conditional Probability
+    - Discrete Distributions
+    - Continuous Distributions
 
 
 ## Chapter-1
@@ -69,3 +74,18 @@ Standard deviation close to zero = data clustered around the mean
 
 
 
+## Chapter-2
+  - What are the chances
+    ![image](https://github.com/user-attachments/assets/c74b96e9-b61c-4340-a93b-f3a19e1e2031)<br><br>
+    ![image](https://github.com/user-attachments/assets/d0a53b3c-097b-4d0e-ab63-ad99a10a5ef0)<br><br>
+
+#### Independent Probability
+Two events are **independent** if the probability of the second event **does not** change based on the outcome of the first event.
+![image](https://github.com/user-attachments/assets/7ba1471e-6224-4b4e-95b5-15898d93e477)<br><br>
+![image](https://github.com/user-attachments/assets/aa7794c0-f42c-4a8a-9149-24f70655da40)<br><br>
+
+
+
+
+
+    
