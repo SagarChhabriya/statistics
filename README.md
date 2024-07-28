@@ -150,5 +150,8 @@ Recall, a random variable is the outcome of an experiment (i.e., a random proces
 
 ![image](https://github.com/user-attachments/assets/af1d9bc2-0f9d-48e8-a0a4-093007d6886a)
 
+![image](https://github.com/user-attachments/assets/0a8926e0-9528-48c7-b9cd-92619ac132b8)
+
+
 
 
