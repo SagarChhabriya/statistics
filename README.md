@@ -119,4 +119,36 @@ where:
 #### Dependent VS Independent
 ![image](https://github.com/user-attachments/assets/49d4c125-31a3-4269-ac0e-b5da07c6e2e9)
 
-    
+
+#### Probability Distributions
+`Distribution` The possible values a variable can take and how frequently they occur.
+
+Probability distributions are statistical functions that describe the likelihood of obtaining possible values that a random variable can take. 
+1. Discrete Probability Distribution
+It models the probabilities of random variables that can have discrete values as outcomes. A discrete random variable is a random variable that has countable values, such as a list of non-negative integers. Discrete probability functions are also known as probability mass functions.<br><br>
+
+Example: If you’re counting the number of books that a library checks out per hour, you can count 15 or 16 books, but nothing in between.
+
+Discrete Probability Distributions can further be divided into
+
+   1. Binomial Distribution
+   2. Multinomial Distribution
+   3. Bernoulli Distribution
+   4. Negative Binomial Distribution
+   5. Poisson Distribution
+   6. Geometric Distribution
+   7. Hypergeometric Distribution
+
+2. Continuous Probability Distribution
+It models the probabilities of the possible values of a continuous random variable. A continuous random variable is a random variable with a set of possible values that are infinite and uncountable. Continuous variables are often measurements on a scale, such as weight and temperature. Continuous probability functions are also known as probability density functions.
+<br><br>
+
+#### Discrete Distributions
+Statistical inference requires assumptions about the probability distribution (i.e., random mechanism, sampling model) that generated the data. For example, for a t-test, we assume that the sample mean follows a normal distribution. Some common distributions used for discrete data are introduced in this section.<br><br>
+
+Recall, a random variable is the outcome of an experiment (i.e., a random process) expressed as a number. We tend to use capital letters near the end of the alphabet (X, Y, Z, etc.) to denote random variables. Random variables are of two types: discrete and continuous.
+
+![image](https://github.com/user-attachments/assets/af1d9bc2-0f9d-48e8-a0a4-093007d6886a)
+
+
+
