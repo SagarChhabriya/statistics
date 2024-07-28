@@ -75,17 +75,48 @@ Standard deviation close to zero = data clustered around the mean
 
 
 ## Chapter-2
-  - What are the chances
-    ![image](https://github.com/user-attachments/assets/c74b96e9-b61c-4340-a93b-f3a19e1e2031)<br><br>
-    ![image](https://github.com/user-attachments/assets/d0a53b3c-097b-4d0e-ab63-ad99a10a5ef0)<br><br>
+
+#### What are the chances
+![image](https://github.com/user-attachments/assets/c74b96e9-b61c-4340-a93b-f3a19e1e2031)<br><br>
+![image](https://github.com/user-attachments/assets/d0a53b3c-097b-4d0e-ab63-ad99a10a5ef0)<br><br>
 
 #### Independent Probability
 Two events are **independent** if the probability of the second event **does not** change based on the outcome of the first event.
-![image](https://github.com/user-attachments/assets/7ba1471e-6224-4b4e-95b5-15898d93e477)<br><br>
-![image](https://github.com/user-attachments/assets/aa7794c0-f42c-4a8a-9149-24f70655da40)<br><br>
+
+![image](https://github.com/user-attachments/assets/7ba1471e-6224-4b4e-95b5-15898d93e477) <br><br>
+![image](https://github.com/user-attachments/assets/aa7794c0-f42c-4a8a-9149-24f70655da40) <br><br>
 
 
+#### Conditional Probability
+Conditional probability is used to calculate the probability of dependent events. The probability of one event is **conditional** on the outcome of another.
+![image](https://github.com/user-attachments/assets/3007c70e-3ee9-487b-a23d-5fcb2da1f940) <br><br>
+
+#### Dependent Events:
+![image](https://github.com/user-attachments/assets/1f6bfe3a-95ab-4384-861b-a2e5763e2e25)<br>
 
 
+**The probabitlity that claire is picked second depends on who gets picked first. If claire is picked first, there is 0% that claire will be picked second. If someone else is picked first, there's a 33% probability that the  Claire will be picked second.**
+
+#### Conditional Probability Using Venn Diagrams
+![image](https://github.com/user-attachments/assets/4c723d6d-cfc1-4f60-9b36-fe501f766d5b)
+
+```Replace 161 of diagram with 181```
+What are the number of orders for kitchen products where each order is greater than $150?
+
+![image](https://github.com/user-attachments/assets/6f415d16-0012-44c9-aa62-3184ed2232d8)
+
+#### The formula for conditional probability is given by:
+
+The formula for conditional probability is:
+
+    P(A | B) = P(A ∩ B) / P(B)
+
+where:
+
+- `P(A | B)` is the probability of event `A` given that event `B` has occurred.
+- `P(A ∩ B)` is the probability that both events `A` and `B` occur.
+- `P(B)` is the probability of event `B`.
+#### Dependent VS Independent
+![image](https://github.com/user-attachments/assets/49d4c125-31a3-4269-ac0e-b5da07c6e2e9)
 
     
