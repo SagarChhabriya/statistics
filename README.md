@@ -120,7 +120,7 @@ where:
 ![image](https://github.com/user-attachments/assets/49d4c125-31a3-4269-ac0e-b5da07c6e2e9)
 
 
-#### Probability Distributions
+#### [Probability Distributions](https://en.wikipedia.org/wiki/Probability_distribution)
 `Distribution` The possible values a variable can take and how frequently they occur.
 
 Probability distributions are statistical functions that describe the likelihood of obtaining possible values that a random variable can take. 
