@@ -27,4 +27,8 @@
 19. Find the probability of drawing a king, a queen, and a knave(Jack) in that order from a pack of careds in 3 consecutive drawing the cards not being replaced.
 20. Foud cards are drawn witout replacement. What is the probability they all are aces?
 21. Two cards are drawn from a well shuffled pack of 52 cards. Find the probability that they are both aces if the first card is (i) replaced (ii) not replaced
-
+22. A bag contains 5 white and 8 red balls. Two successive drawings of 3 balls are made such that
+  - (i) Balls are replaced before second trial
+  - (ii) Balls are not replaced before second trial
+23. Find the probability that the first drawing will give 3 white and the second 3 red balls in each case?
+24. A factory has two machines, machine I produces 30% of the items
