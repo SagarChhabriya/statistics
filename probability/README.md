@@ -21,3 +21,10 @@
     - Both of them will be selected?
     - None of them will be selected?
     - Only wife will be selected?
+16. A problem in statistics is given to three students A,B, and C. Whose chances of solving it are 1/2, 1/3, and 1/4. What is the probability that the problem will be solved?
+17. A candidate Mr. X is interviewed for 3 posts. For the first post, there are 3 candidates, for the second post, there are 4 and for third there are 2. What are the chances of Mr. X being getting selected?
+18. A bag contains 10 white and 5 black balls. Two balls are drawn at random one after the other without replacement. Find the probability that both balls drawn are black?
+19. Find the probability of drawing a king, a queen, and a knave(Jack) in that order from a pack of careds in 3 consecutive drawing the cards not being replaced.
+20. Foud cards are drawn witout replacement. What is the probability they all are aces?
+21. Two cards are drawn from a well shuffled pack of 52 cards. Find the probability that they are both aces if the first card is (i) replaced (ii) not replaced
+
